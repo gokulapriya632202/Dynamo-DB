@@ -1,5 +1,6 @@
-# EX-5-Overview-of-DynamoDB-in-AWS
-
+# EX-5 Overview of DynamoDB in AWS
+## NAME:  GOKULA PRIYA P
+## REG NO: 212222040044
 ## Aim
 To understand and perform basic operations in Amazon DynamoDB, including table creation, item insertion, querying, and experimenting with simple data operations using the AWS SDK.
 
